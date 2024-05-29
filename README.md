@@ -1,6 +1,6 @@
 # Household Energy Consumption Analysis
 
-This repository contains code for analyzing household energy consumption data using Python. It includes scripts for data preprocessing, simple linear regression modeling, and visualization of the results.
+This repository contains code for analyzing household energy consumption data using Python. It includes scripts for data preprocessing,modeling, and visualization of the results.
 
 ## Contents
 
