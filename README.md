@@ -1,0 +1,2 @@
+# Household_Energy_Consumption_Prediction_2024
+#machinelearning #energyconsumption #householdpowerconsumption #energyprediction
