@@ -15,3 +15,8 @@ To use the code in this repository, you'll need to have Python installed on your
 
 After installing Python, you can clone this repository to your local machine using Git:
 
+
+Then navigate to the project directory: https://github.com/GaddamVarshith/Household_Energy_Consumption_Analysis_2024.git
+
+
+
