@@ -4,7 +4,7 @@ This repository contains code for analyzing household energy consumption data us
 
 ## Contents
 
-- [Installation](#https://www.python.org/)
+- [Installation](#installation)
 - [Usage](#usage)
 - [Dataset](#dataset)
 - [License](#license)
