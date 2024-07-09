@@ -21,7 +21,7 @@ Then navigate to the project directory: https://github.com/GaddamVarshith/Househ
 
 ## Usage
 
-1. **Data Preparation**: Place your dataset file (CSV format) in the `data` directory.
+1. **Data Preparation**: Place your dataset file (CSV format) in the `data` directory
 
 2. **Data Analysis**: Run the Jupyter notebook `analysis.ipynb` to preprocess the data, perform simple linear regression analysis, and visualize the results.
 
